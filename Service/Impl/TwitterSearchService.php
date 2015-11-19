@@ -5,6 +5,7 @@ namespace Service\Impl;
 use TwitterAPIExchange;
 use \Simplon\Twitter\TwitterException;
 use \Mapper\TwitterResultMapper;
+use Domain\SearchException;
 
 class TwitterSearchService implements \Service\SocialSearchService {
 
