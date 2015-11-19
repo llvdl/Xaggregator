@@ -1,0 +1,17 @@
+{
+    "name": "llvdl/xaggregator",
+    "require": {
+        "j7mbo/twitter-api-php": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "llvdl",
+            "email": "lennaertvanderlinden@gmail.com"
+        }
+    ],
+     "autoload": {
+        "psr-0": {
+            "":        "./"
+        }
+    }
+}
